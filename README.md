@@ -9,12 +9,6 @@ Interested in AI, UX, and full-stack development
 **Tools:** Git, VS Code, IntelliJ, Node.js  
 **Concepts:** OOP, Data Structures, REST APIs
 
-## 💻 Technical Skills
-
-**Languages:** Java, Python, JavaScript, HTML/CSS  
-**Tools:** Git, VS Code, IntelliJ, Node.js  
-**Concepts:** OOP, Data Structures, REST APIs
-
 ## 🚀 Featured Projects
 
 ### 🔹 AI UX Research Site
