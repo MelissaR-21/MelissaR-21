@@ -14,7 +14,7 @@ Interested in UX, AI, and full-stack development
 ### 🧠 MediScribe (AWS Hackathon)
 AI-powered medical transcription assistant designed to convert speech into structured clinical notes.
 
-**Focus Areas:
+**Focus Areas:**
 - Speech-to-text integration
 - Backend API development
 - AI-assisted text processing
@@ -22,7 +22,7 @@ AI-powered medical transcription assistant designed to convert speech into struc
 ### ☁️ Cloud Club Project (In Progress)
 Collaborative cloud-based application built to demonstrate scalable backend architecture and team-based development.
 
-**Focus Areas:
+**Focus Areas:**
 - Cloud infrastructure concepts
 - REST API integration
 - Version control collaboration
@@ -30,12 +30,12 @@ Collaborative cloud-based application built to demonstrate scalable backend arch
 ### 🔥 Hot Take (In Progress)
 Interactive web application allowing users to share and engage with opinion-based content in a dynamic feed.
 
-**Focus Areas:
+**Focus Areas:**
 - Full-stack development
 - User interaction design
 - Database integration
 
-### ESP32-CAM Robot Prototype
+### 🤖 ESP32-CAM Robot Prototype
 Building a small robot using ESP32-CAM, Python, and embedded components.
 
 **Focus Areas:**  
