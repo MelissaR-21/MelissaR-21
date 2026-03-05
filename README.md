@@ -6,7 +6,7 @@ Interested in UX, AI, and full-stack development
 ## 💻 Technical Skills
 
 **Languages:** Java, Python, JavaScript, HTML/CSS  
-**Tools:** Git, VS Code, IntelliJ, Node.js, Figma
+**Tools:** Git, VS Code, IntelliJ, Node.js, Figma 
 **Concepts:** OOP, Data Structures, REST APIs
 
 ## 🚀 Featured Projects
