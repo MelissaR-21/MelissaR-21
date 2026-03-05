@@ -1,34 +1,49 @@
 # Hi, I'm Melissa 👋
 
 Computer Science student at Florida State University  
-Interested in AI, UX, and full-stack development  
+Interested in UX, AI, and full-stack development  
 
 ## 💻 Technical Skills
 
 **Languages:** Java, Python, JavaScript, HTML/CSS  
-**Tools:** Git, VS Code, IntelliJ, Node.js  
+**Tools:** Git, VS Code, IntelliJ, Node.js, Figma
 **Concepts:** OOP, Data Structures, REST APIs
 
 ## 🚀 Featured Projects
 
-### 🔹 AI UX Research Site
-Educational website explaining AI in UX design  
-Tech: HTML, CSS, JavaScript  
+### 🧠 MediScribe (AWS Hackathon)
+AI-powered medical transcription assistant designed to convert speech into structured clinical notes.
 
-### 🔹 Java OOP Banking System
-Simulated banking system demonstrating OOP principles  
-Tech: Java  
+**Focus Areas:
+- Speech-to-text integration
+- Backend API development
+- AI-assisted text processing
 
-### 🔹 ESP32 Robot Prototype (In Progress)
-Building a robot using ESP32-CAM and Python  
+### ☁️ Cloud Club Project (In Progress)
+Collaborative cloud-based application built to demonstrate scalable backend architecture and team-based development.
 
-## 🌱 Currently Working On
+**Focus Areas:
+- Cloud infrastructure concepts
+- REST API integration
+- Version control collaboration
 
-- Improving data structures knowledge
-- Building embedded systems projects
-- Preparing for software engineering internships
+### 🔥 Hot Take (In Progress)
+Interactive web application allowing users to share and engage with opinion-based content in a dynamic feed.
+
+**Focus Areas:
+- Full-stack development
+- User interaction design
+- Database integration
+
+### ESP32-CAM Robot Prototype
+Building a small robot using ESP32-CAM, Python, and embedded components.
+
+**Focus Areas:**  
+- Microcontroller integration  
+- Camera streaming  
+- Hardware/software interaction
 
 ## 📫 Contact
 
-LinkedIn: [your link]  
-Email: your email  
+LinkedIn: www.linkedin.com/in/melissa-rodriguez-7840b835a  
+Email: melrodriguez0221@gmail.com
