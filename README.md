@@ -19,7 +19,7 @@ AI-powered medical transcription assistant designed to convert speech into struc
 - Backend API development
 - AI-assisted text processing
 
-### ☁️ Cloud Club Project (In Progress)
+### ☁️ Cloud Club Project
 Collaborative cloud-based application built to demonstrate scalable backend architecture and team-based development.
 
 **Focus Areas:**
